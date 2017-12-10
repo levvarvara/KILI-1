@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2017-12-10T11:24:30+02:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:459a9ed7-0087-4891-b657-4a7da499f93a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">44</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="9000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="21620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="22990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="23400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="24710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="24910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="25910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="26910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="33480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="34720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="38990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="39410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="39608"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="40000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="42505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="43195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="44999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="45608"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="54360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="54597"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="76051"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="76061"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="78742"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="78804"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="85164"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="85268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="90237"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="90360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="93206"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="93226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="109020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="109051"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="118845"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="119948"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="129711"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="129840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="133907"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="134020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="135400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="135587"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="137443"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="137480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="142525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="143525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="151938"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="153999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="185999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="186711"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="189999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="190206"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="214020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="214979"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="214980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="216061"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="217920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="218175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="223505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="223989"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="229865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="230927"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="247154"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="247237"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="251876"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="251958"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="254536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="257010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="264040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="264484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="266540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="266608"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="267762"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="268824"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="273917"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="273999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="290525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="290577"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="298422"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="298567"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="309082"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="310560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="312440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="312546"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="319721"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="A@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>ммм ... Большинство CTF, которые я писал, эм ... как ни странно, они были командными , но писал я их сам, потому что , хе-хе-хе ,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>эм, сначала моя команда состояла из полтора одноклассника, один из которых был читером, второй - девочкой... хе-хе-хе... а третий был я... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>а? что?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Ха-ха, да... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ну, я её затащил чисто по фану, и она, в итоге, на самом деле ничего не решала, так что, ну, то есть, особого смысла в ней и так, и так не было... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Потом появилась другая девочка, которая реально тащит, но это другая история. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>Ну как другая?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Да, эм ... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>В общем, там..., эм,  была ... одна ... одно соревнование, эм, проводящееся в двух турах;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>первый тур заочный, мм, то есть ты сидишь за компом, недельку, или день, ээ,  нонстопом сидишь, решаешь задачки, ээ, материшься на создателей в Телеграмме, делаешь мемчики, мм, делаешь селфи, после чего, ээ, прошариваешься и едешь в Ростов ... xe-xe-хе ... на пару дней, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>блин, вот, не помню ... блин, уже, странно ... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>в общем-то, мм, едешь в Ростов, на пару дней, ам ... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>в Ростове активность состоит из, ээ, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ну, примерно, разделяя на пару дней,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>я не буду говорить, как было в том, в этом году, потому что я сам не помню, но, в общем ... эм, что там есть точно там очный тур, то есть, нахрена вообще мы все тут собираемся - конечно же, чт... чтобы написать очный тур, аа ... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>во-вторых, эм, ну, важный такой аспект того, что ты едешь в Ростов - это пообщаться с людьми, которые так... такие же долбанутые на голову, как ты ... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ээ, вообще такая полезная штука многих сходок - это пообщаться с людьми, кот... которые такие же долбанутые на голову, как ты ... эм ...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Что? что, еще раз?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ха-ха-ха, ехать, эм, из, сейчас, Новосибирска через Москву в Ростов. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Это, вот, как бы, шикарно, да ... Притом какими-то там, хрен знает какими авиалиниями, вот ... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>В общем-то, кроме, собственно, социальной активности - общения с такими же долбанутыми, как и т... как и ты, людьми и ... , ммм, написания очного тура, награждения, целования в щечку и посылания обратно нафиг ..., эм, есть еще, скажем так, подготовительный день, когда вы приходите,там вам - о, привет, люди, как дела?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>эм, ну, вы пришли, что с вами делать? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ну, можете пообщаться, вот вам пара активностей есть, вроде собрать кубик рубика или собрать ... эм, такие вот, типа развивающие игры, блин, вот честно, не помню, как называется, но даже не развивающие, а на соображалку, на прокрутить, знаешь, есть такие деревянные формочки, туда вставляешь разные, ну, разные фигурки ... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>вот, вот такого типа игры</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Сам CTF? ... эм ... ха-ха-ха ... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ну, CTF [нрзб], в которых я участвую - это соревнования по информационной безопасности,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>эм, я участвую в более, ну, больше всего участвовал в наиболее популярной категории, эм, task-based, когда ты приходишь,тебе дают такой список заданий, ты на него смотришь, охреневаешь </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>какбы что? что? мне что, это решать что ли надо? зачем? что, что вы от меня хотите? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Потом решаешь и по- ... и тащишь ... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>Эм..Ну, то есть, про само решение я могу разговаривать вообще долго, в зависимости от категории, потому что задания подразделяются на категории...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Запоминающееся?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Ну, могу привести пример задания, который считался реверсом. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Ну, реверс - это категория заданий, когда тебе надо по скомпилированной программе, то есть экзешнику или бинарнику для прошаренных линуксоидов, то, в общем-то, ммм, получить исходный код и алгоритм этой программы, который каким-то образом генерирует флаг ...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>То есть, суть task-based CTFов в том, что ты - вообще любого CTF - в том, что ты берешь флаги и отдаешь их организаторам. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>Ну, не суть, у кого ты их берешь, эм, иногда ты берешь флаги у организаторов и отдаешь их ор... оганизаторам, а иног... иногда ты берешь флаги у других людей и отдаешь их организаторам</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>Да, то есть, CTF, capture the flag, как бы, там в самом названии флаги есть, ха-ха-ха ...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="B@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Интересные у тебя категории.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>[нрзб] в какой-то момент ты даже куда-то поехал?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>Долбанутые - в смысле в Ростов поперлись или занимаются CTF</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>Долбанутые - в смысле поехали в Ростов?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>[нрзб] больше про сам CTF?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Ну, что-нибудь такое, запоминающееся.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>То есть общий концепт такой у CTF?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="paragraph" PARTICIPANT="A" TIER_ID="A_Transcription-txt-andi"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="association" PARENT_REF="A_Transcription-txt-andi" PARTICIPANT="A" TIER_ID="A_Translation-gls-ru"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="association" PARENT_REF="A_Transcription-txt-andi" PARTICIPANT="A" TIER_ID="A_Participant-note-en"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="subdivision" PARENT_REF="A_Transcription-txt-andi" PARTICIPANT="A" TIER_ID="A_Morph-txt-andi"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="association" PARENT_REF="A_Morph-txt-andi" PARTICIPANT="A" TIER_ID="A_Gloss-txt-en"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="association" PARENT_REF="A_Morph-txt-andi" PARTICIPANT="A" TIER_ID="A_POS-txt-en"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="association" PARENT_REF="A_Morph-txt-andi" PARTICIPANT="A" TIER_ID="A_Lemma-txt-andi"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="association" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="subdivision" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
